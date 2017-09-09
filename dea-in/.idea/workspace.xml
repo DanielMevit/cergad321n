@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="87d8747e-8538-40e4-bd2e-afb5227bd248" name="Default" comment="" />
+=======
+    <list default="true" id="1ce4ec12-8008-4792-a960-2ecc69e7f7c1" name="Default" comment="" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,18 +21,78 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DEA-IN_EN/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="34">
               <caret line="570" column="93" lean-forward="false" selection-start-line="570" selection-start-column="93" selection-end-line="570" selection-end-column="93" />
+=======
+            <state relative-caret-position="165">
+              <caret line="43" column="125" lean-forward="false" selection-start-line="43" selection-start-column="125" selection-end-line="43" selection-end-column="125" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3622#3627#0" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expertise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEA-IN_EN/expertise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DEA-IN_EN/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-9542">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEA-IN_EN/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEA-IN_EN/team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEA-IN_EN/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="40" column="117" lean-forward="false" selection-start-line="40" selection-start-column="117" selection-end-line="40" selection-end-column="117" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEA-IN_EN/aboutus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
               <folding />
             </state>
           </provider>
@@ -36,10 +100,28 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DEA-IN_EN/index.html" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/DEA-IN_EN/aboutus.html" />
+        <option value="$PROJECT_DIR$/DEA-IN_EN/contact.html" />
+        <option value="$PROJECT_DIR$/DEA-IN_EN/expertise.html" />
+        <option value="$PROJECT_DIR$/DEA-IN_EN/services.html" />
+        <option value="$PROJECT_DIR$/DEA-IN_EN/team.html" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
       </list>
     </option>
   </component>
@@ -49,10 +131,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="14" />
     <option name="y" value="6" />
     <option name="width" value="1346" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-20" />
+    <option name="y" value="71" />
+    <option name="width" value="1386" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
     <option name="height" value="688" />
   </component>
   <component name="ProjectView">
@@ -70,6 +159,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,24 +176,34 @@
               <item name="dea-in" type="462c0819:PsiDirectoryNode" />
               <item name="DEA-IN_EN" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="dea-in" type="b2602c69:ProjectViewProjectNode" />
               <item name="dea-in" type="462c0819:PsiDirectoryNode" />
               <item name="DEA-IN_EN" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+<<<<<<< HEAD
+=======
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,21 +217,42 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="RunManager" selected="JavaScript Debug.aboutus.html">
+    <configuration name="aboutus.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dea-in/DEA-IN_EN/aboutus.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aboutus.html" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="87d8747e-8538-40e4-bd2e-afb5227bd248" name="Default" comment="" />
       <created>1504970316579</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504970316579</updated>
       <workItem from="1504970317774" duration="1262000" />
+=======
+      <changelist id="1ce4ec12-8008-4792-a960-2ecc69e7f7c1" name="Default" comment="" />
+      <created>1504969041729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504969041729</updated>
+      <workItem from="1504969045548" duration="2296000" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1262000" />
   </component>
   <component name="ToolWindowManager">
@@ -135,6 +260,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="2296000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-20" y="71" width="1386" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24233577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -163,21 +297,77 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/DEA-IN_EN/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9542">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/DEA-IN_EN/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="570" column="93" lean-forward="false" selection-start-line="570" selection-start-column="93" selection-end-line="570" selection-end-column="93" />
+=======
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="40" column="117" lean-forward="false" selection-start-line="40" selection-start-column="117" selection-end-line="40" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/expertise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="39" column="117" lean-forward="false" selection-start-line="39" selection-start-column="117" selection-end-line="39" selection-end-column="117" />
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/DEA-IN_EN/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="43" column="125" lean-forward="false" selection-start-line="43" selection-start-column="125" selection-end-line="43" selection-end-column="125" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3622#3627#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 8dfb255cedd3a6ad41ac9639fa74ccd910599396
   </component>
 </project>
