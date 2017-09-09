@@ -128,7 +128,7 @@ p
       -ms-flex-align: center;
           align-items: center;
 }
-.flexslider .btn
+.flexslider .bton
 {
     background: #93ca3a;
     border-radius: 0;
@@ -141,12 +141,7 @@ p
 
     padding: 0px;
 }
-.flexslider .btn:hover,
-.flexslider .btn:focus {
-    background: #fff;
-    color: #93ca3a;
-    border: 2px solid transparent;
-}
+
 #home p {
 
     color: black;
