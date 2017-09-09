@@ -588,19 +588,21 @@ p
     }
 #contact p {
         color: black;
+
+
 }
 #contact .fa
     {
         color: #93ca3a;
         font-size: 18px;
-        padding-bottom: 14px;
+        padding-bottom: 5px;
     }
 #contact .form-control
     {
         background: #f2f2f2;
         border-radius: 4px;
         box-shadow: none;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
         transition: all 0.4s ease-in-out;
     }
 #contact input
@@ -627,7 +629,9 @@ p
 #contact .form-control::-webkit-input-placeholder {
   color: #666;
 }
-
+#contact h5 {
+    color: black;
+}
 /* end contact */
 
 /* start google map */

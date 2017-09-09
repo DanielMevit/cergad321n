@@ -4,10 +4,10 @@ var map = '';
 var center;
 
 function initialize() {
-    var skopje = {lat: 41.979843, lng: 21.436816};
+    var skopje = {lat: 41.9808924295659, lng: 21.44018746041388};
     var mapOptions = {
       zoom: 16,
-      center: new google.maps.LatLng(41.979843, 21.436816),
+      center: new google.maps.LatLng(41.9808924295659, 21.44018746041388),
       scrollwheel: false
     };
   
