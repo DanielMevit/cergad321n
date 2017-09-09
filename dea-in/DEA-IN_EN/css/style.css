@@ -201,13 +201,16 @@ p
 /* start divider */
 #divider
     {
-        background: url('../images/divider-bg.jpg');
+
+
+       /*background: url('../images/divider-bg.jpg');
         background-size: cover;
         background-repeat: no-repeat;
-        color: #FFFFFF;
+        color: #FFFFFF; */
     }
 #divider h2
     {
+
         font-size: 40px;
     }
 #divider strong
@@ -634,6 +637,24 @@ p
   }
 /* end google map */
 
+
+/* start footer */
+footer
+{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #93ca3a;
+}
+footer p
+{
+    line-height: 12px;
+}
+footer .social-icon
+{
+    top: 0px;
+}
+/* end footer */
 
 
 .too-icon {
